@@ -17,13 +17,13 @@
         },
         {
             "title": "Website",
-            "url": "https://yourwebsite.com",
+            "url": " https://bagasgsptr.github.io/bagasgsptr/",
             "icon": "fas fa-globe"
         },
         {
-            "title": "GitHub",
-            "url": "https://github.com/bagasgsptr",
-            "icon": "fab fa-github"
+            "title": "Vercel",
+            "url": "https://link-tree-two-iota.vercel.app/",
+            "icon": "fab fa-vercel"
         }
     ],
     "music": {
