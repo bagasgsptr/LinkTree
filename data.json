@@ -1,0 +1,61 @@
+{
+    "profile": {
+        "name": "Bagas Gusti Saputro",
+        "bio": "Just a simple bio about yourself.",
+        "image": "2.jpeg"
+    },
+    "links": [
+        {
+            "title": "Instagram",
+            "url": "https://www.instagram.com/bagasgsptr_/",
+            "icon": "fab fa-instagram"
+        },
+        {
+            "title": "YouTube",
+            "url": "https://www.youtube.com/@bagasgsptr",
+            "icon": "fab fa-youtube"
+        },
+        {
+            "title": "Website",
+            "url": "https://yourwebsite.com",
+            "icon": "fas fa-globe"
+        },
+        {
+            "title": "GitHub",
+            "url": "https://github.com/bagasgsptr",
+            "icon": "fab fa-github"
+        }
+    ],
+    "music": {
+        "title": "All In For You",
+        "artist": "Aftershine",
+        "albumArt": "1.jpeg",
+        "audioFile": "Aftershine - ALL IN FOR YOU (Official Music Video).mp3", 
+        "timeSync": [
+            { "time": 0, "text": "Musik" },
+            { "time": 21, "text": "Opo kudu koyo ngene" },
+            { "time": 29, "text": "Sesandingan karo kowe" },
+            { "time": 34, "text": "Salah sitik tok nesoni tok lungani" },
+            { "time": 43, "text": "Ratau mikir atiku" },
+            { "time": 50, "text": "Urip kui butuh kerjo" },
+            { "time": 57, "text": "Rabi ora mung modal tresno" },
+            { "time": 63, "text": "Aku kerjo lembur ojo padake wong nganggur" },
+            { "time": 72, "text": "Bendino hp ra ucul" },
+            { "time": 84, "text": "Atiku wes kebal ora bakal bubar" },
+            { "time": 94, "text": "Cobo golek gantiku sing sabar koyo aku" },
+            { "time": 102, "text": "Sak ndonyo rabakal ketemu" },
+            { "time": 110, "text": "Oleh nesu tapi ojo ninggal aku" },  
+            { "time": 117, "text": "Oleh sambat tapi tresno kudu kuat" },
+            { "time": 125, "text": "Kabeh tak usahake tak all in ke kanggo koe" },
+            { "time": 132, "text": "Rapercoyo mbok paido ora popo" },
+            { "time": 140, "text": "Sabar iku ingaran mustika ning laku" },
+            { "time": 146, "text": "Mulo ojo nuruti sifat egomu" },
+            { "time": 154, "text": "Sepurane aku yen ra dadi atimu" },
+            { "time": 162, "text": "Luwih ajur diriku tanpa dirimu" },
+            { "time": 168, "text": "" },
+            { "time": 178, "text": "" },
+            { "time": 186, "text": "" },
+            { "time": 194, "text": "" }
+        ]
+    }
+}
