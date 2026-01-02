@@ -7,23 +7,19 @@
     "links": [
         {
             "title": "Instagram",
-            "url": "https://www.instagram.com/bagasgsptr_/",
-            "icon": "fab fa-instagram"
+            "url": "https://www.instagram.com/bagasgsptr_/"
         },
         {
             "title": "YouTube",
-            "url": "https://www.youtube.com/@bagasgsptr",
-            "icon": "fab fa-youtube"
+            "url": "https://www.youtube.com/@bagasgsptr"
         },
         {
             "title": "Website",
-            "url": " https://bagasgsptr.github.io/bagasgsptr/",
-            "icon": "fas fa-globe"
+            "url": " https://bagasgsptr.github.io/bagasgsptr/"
         },
         {
             "title": "Vercel",
-            "url": "https://link-tree-two-iota.vercel.app/",
-            "icon": "fab fa-vercel"
+            "url": "https://link-tree-two-iota.vercel.app/"
         }
     ],
     "music": {
