@@ -1,7 +1,7 @@
 {
     "profile": {
         "name": "Bagas Gusti Saputro",
-        "bio": "Just a simple bio about yourself.",
+        "bio": "Klik secukupnya jangan berlebihan.",
         "image": "2.jpeg"
     },
     "links": [
@@ -14,12 +14,16 @@
             "url": "https://www.youtube.com/@bagasgsptr"
         },
         {
-            "title": "Website",
+            "title": "Website Portofolio",
             "url": " https://bagasgsptr.github.io/bagasgsptr/"
         },
         {
             "title": "Vercel",
             "url": "https://link-tree-two-iota.vercel.app/"
+        },
+        {
+            "title": "Google Drive",
+            "url": "https://drive.google.com/drive/u/0/my-drive"
         }
     ],
     "music": {
